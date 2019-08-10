@@ -20,4 +20,4 @@ ggp <- ggplot(baltimoreNEI,aes(factor(year),Emissions,fill=type)) +
     labs(title=expression("PM"[2.5]*" Emissions, Baltimore City 1999-2008 by Source Type"))
 
 print(ggp)
-dev.off()
+dev.off() 
