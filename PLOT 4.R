@@ -1,4 +1,4 @@
-## Assignment #Q4: Across the United States, how have emissions from coal 
+## Assignment #Question-4: Across the United States, how have emissions from coal 
 ## combustion-related sources changed from 1999-2008?
 ##
 
